@@ -26,7 +26,7 @@ h1 {
 
 #navbarSupportedContent a {
     font-family: "Changa One", cursive;
-    padding: 0 1.5rem;
+    margin: 0 15px;
 }
 
 #navbarSupportedContent #navBarList .active {
@@ -129,5 +129,5 @@ h2 {
 #footer nav a {
     color: #808080;
     font-family: "Changa One", cursive;
-    padding: 0 1.5rem;
+    margin: 0 15px;
 }
